@@ -1,0 +1,127 @@
+
+<!-- JQuery -->
+<script src="/assets/js/jquery-3.4.1.min.js"></script>
+
+<!-- Leaflet stuff -->
+<link rel="stylesheet" href="/assets/js/leaflet.css" />
+<script src="/assets/js/leaflet.js"></script>
+<script src="/assets/js/leaflet-providers.js"></script>
+
+<!-- Leaflet Label plugin -->
+<script src='/assets/js/leaflet.label.js'></script>
+<link href='/assets/js/leaflet.label.css' rel='stylesheet' />
+
+<!--settings for full-screen map, from: http://bl.ocks.org/d3noob/7654694 -->
+<style>
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+    width: 100%;
+}
+</style>
+
+
+<!-- LeafLet map props
+<style type="text/css">
+#map { height: 100%; width: 100%;}
+</style>-->
+
+<!-- LeafLet map  - relative link -->
+<div id="map"></div>
+<!-- places.geojson -->
+<link rel="points" type="application/json" href='/pages/places.geojson'>
+<!-- <script src='places.geojson' type="text/javascript"></script> -->
+
+<script>
+
+    var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+        maxZoom: 17,
+        attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+    });
+
+    var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+
+    var Esri_WorldStreetMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
+    });
+
+    var Esri_WorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
+    });
+
+    var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+    });
+
+    var Esri_WorldShadedRelief = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri',
+        maxZoom: 13
+    });
+
+    // color itens coording to properties
+    function getColor(category) {
+        return category == "airport"  ?   '#002E63' : 
+               category == "place"    ?   '#FF7E00' :
+               category == "dive"     ?   '#FF0000' :
+                                          '#000';
+    }
+
+    // Attaching a GeoJSON file with relative link: (from: http://lyzidiamond.com/posts/osgeo-august-meeting/)
+    // var places = L.layerGroup();
+      $.getJSON($('link[rel="points"]').attr("href"), function(data) {
+        var geoJsonLayer = L.geoJson(data, {
+            onEachFeature: function (feature, layer) {
+                var desc = feature.properties.Title
+                layer.bindTooltip(desc)
+            },
+            pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, {
+                radius: 3,
+                Label: getColor(feature.properties.Title), 
+                fillColor: getColor(feature.properties.category), 
+                color: "#000",
+                weight: 0.5,
+                opacity: 0.8,
+                fillOpacity: 0.8,})
+            },
+        });
+        geoJsonLayer.addTo(map);
+      });
+
+    //vars for the layer control
+        var otm = OpenTopoMap,
+            osm  =  OpenStreetMap_Mapnik,
+            ewsm = Esri_WorldStreetMap,
+            ewtm = Esri_WorldTopoMap,
+            ewim = Esri_WorldImagery,
+            ewsr = Esri_WorldShadedRelief;
+
+
+        var map = L.map('map', {
+            center: [15,0],
+            zoom: 2,
+            layers: [ewsm]
+        });
+
+        var baseLayers = {
+            "Esri WorldStreetMap": ewsm,
+            "Esri WorldTopoMap": ewtm,
+            "Esri WorldImagery": ewim,
+            "Esri WorldShadedRelief": ewsr,
+            "OpenTopo Map": otm, 
+            "OpenStreetMap Mapnik": osm
+        };
+
+        // var overlays = {
+        //     "Places": places
+        // };
+
+        // L.control.layers(baseLayers, overlays).addTo(map);
+        L.control.layers(baseLayers).addTo(map);
+</script>

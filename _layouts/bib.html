@@ -1,0 +1,93 @@
+---
+---
+
+<div class="text-justify">{{reference}}</div>
+
+{% if entry.abstract %}
+<a class="btn btn-small btn-info" data-toggle="collapse" href="#{{key}}-abstract">Abstract</a>
+<pre style="white-space:pre-wrap;" id="{{key}}-abstract" class="pre pre-scrollable collapse">{{entry.abstract}}</pre>
+{% endif %}
+
+<a class="btn btn-small btn-info" data-toggle="collapse" href="#{{key}}-bibtex">BibTeX</a>
+<pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>
+
+{% if entry.doi %}
+<a class="btn btn-small btn-primary" href="http://dx.doi.org/{{entry.doi}}">DOI</a>
+{% endif %}
+
+{% if entry.oalink %}
+<a class="btn btn-small btn-success" href="{{entry.oalink}}">Download</a>
+{% endif %}
+{% if entry.pre_arxiv %}
+<a class="btn btn-small btn-success" href="{{entry.pre_arxiv}}">Preprint</a>
+{% endif %}
+{% if entry.pre_earxiv %} 
+<a class="btn btn-small btn-success" href="{{entry.pre_earxiv}}">Preprint</a>
+{% endif %}
+{% if entry.post_earxiv %}
+<a class="btn btn-small btn-success" href="{{entry.post_earxiv}}">Postprint</a>
+{% endif %}
+<p></p>
+
+
+<!-- 
+{{reference}}
+
+<div id="{{key}}-materials">
+  <ul style="list-style: none;">
+    {% if entry.abstract %}
+    <li><a data-toggle="collapse" href="#{{key}}-abstract">Abstract</a></li>
+    <pre style="white-space:pre-wrap;" id="{{key}}-abstract" class="pre pre-scrollable collapse">{{entry.abstract}}</pre>
+    {% endif %}
+    <li><a data-toggle="collapse" href="#{{key}}-bibtex">BibTeX</a></li>
+    <pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>
+    {% if entry.oalink %}
+    <li><a href="{{entry.oalink}}">Direct download</a> (Open Access)</li>
+    {% endif %}
+    {% if entry.pre_arxiv %}
+    <li>Preprint available at <a href="{{entry.pre_arxiv}}">arXiv</a> (Open Access)</li>
+    {% endif %}
+    {% if entry.pre_earxiv %} 
+    <li>Preprint available at <a href="{{entry.pre_earxiv}}">EarthArXiv</a> (Open Access)</li>
+    {% endif %}
+    {% if entry.post_earxiv %}
+    <li>Postprint available at <a href="{{entry.post_earxiv}}">EarthArXiv</a> (Open Access)</li>
+    {% endif %}
+    {% if entry.doi %}
+    <li>DOI: <a href="http://dx.doi.org/{{entry.doi}}">{{entry.doi}}</a> ({{entry.access}})</li>
+    {% endif %}
+    <br>
+  </ul>
+</div>
+ -->
+
+
+<!-- <div id="{{key}}-materials">
+  <ul class="nav nav-pills">
+    {% if entry.abstract %}
+    <li><a data-toggle="collapse" href="#{{key}}-abstract">Abstract</a></li>
+    {% endif %} -->
+
+<!--     <li><a data-toggle="collapse" href="javascript:toggleDiv('{{key}}-bibtex')">BibTeX</a></li>
+    <div id="{{key}}-bibtex" style="display:none;">
+    <pre class="collapse">{{entry.bibtex}}</pre>
+    </div> -->
+
+<!--     <li><a data-toggle="collapse" href="#{{key}}-bibtex">BibTeX</a></li>
+    <pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>
+
+    {% if link %}
+    <li><a href="{{link}}">Download</a></li>
+    {% endif %}
+    {% if entry.doi %}
+    <li>DOI: <a href="http://dx.doi.org/{{entry.doi}}">{{entry.doi}}</a></li>
+    {% endif %}
+  </ul> -->
+
+<!--   {% if entry.abstract %}
+  <p id="{{key}}-abstract" class="collapse">{{entry.abstract}}</p>
+  {% endif %} -->
+
+
+
+<!-- </div> -->
