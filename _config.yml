@@ -11,8 +11,9 @@ title: Home #Prof. Carlos H. Grohmann
 # Your name to show in the footer
 author: Carlos H. Grohmann
 
-# --- List of links in the navigation bar --- #
+url: "http://carlosgrohmann.com"
 
+# --- List of links in the navigation bar --- #
 navbar-links:
   About Me: 
     - CV | Bio: "pages/aboutme"

@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/kirclk/public_html/
+    - /bin/cp -R /home/kirclk/repositories/gitrepo/_site/* $DEPLOYPATH
