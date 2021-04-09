@@ -20,7 +20,7 @@ This program has a strong socio-environmental focus, leaning towards the Humanit
 &nbsp;  
 
 ### Post-Doc
-**Anderson Targino da Silva Ferreira**  
+**Anderson Targino da Silva Ferreira**  (2019-2021)
 <a href="http://orcid.org/0000-0002-0440-6273">ORCiD</a> | <a href="http://lattes.cnpq.br/2987031006640819">Lattes CV</a>  
 Monitoring of microplastic (pellets) density of a sandy beach by coring, 3D modelling and meteoceanographic parameters.
 period: 2019 
@@ -80,14 +80,10 @@ period: 2019-? | program: RMH | scholarship: FAPESP grant [#2019/17555-1](https:
 &nbsp;  
 &nbsp;  
 
-### Undergrad Students
-**Mariana B.B. da Silva**  
-<a href="http://lattes.cnpq.br/6596101972048688">Lattes CV</a>  
-Analisis and Modelling of a smal landslide with SfM and TLS  
-level: Undergraduate research | funding: USP  
+<!-- ### Undergrad Students 
 &nbsp;  
 &nbsp;  
-&nbsp;  
+&nbsp; -->  
 
 ### Former Students
 ### MSc
@@ -121,6 +117,7 @@ Application of High-resolution Digital Terrain Models in slope stability and mas
 period: 2016-2020 | program: RMH  
 PDF available at the [USP Digital Library of Theses and Dissertations](https://www.teses.usp.br/teses/disponiveis/44/44137/tde-25082020-090103/pt-br.php)  
 https://doi.org/10.11606/D.44.2020.tde-25082020-090103  
+
 
 **Renato dos Santos Neves Kahwage**  
 Geological study of the Capão Bonito quadrangle - remote sensing  
@@ -191,6 +188,10 @@ period: 2012-08/2013-07 | kind: Undergraduate research | funding: CNPq
 **Mariana dos Santos Toledo Busarello**  
 Structure-from-Motion based structural analysis of clastic dikes of the Corumbataí Formation   
 period: 2017 | kind: Undergraduate monograph (final paper)  
+
+**Mariana B.B. da Silva**  (<a href="http://lattes.cnpq.br/6596101972048688">Lattes CV</a>) 
+Analisis and Modelling of a smal landslide with SfM and TLS  
+period: 2019-08/2020-07 | kind:  Undergraduate research | funding: USP  
 
 **Thomas Kenji Akabane**  
 Digital Terrain Analysis selected sectors of the Falklands Islands based on X-SAR SRTM  

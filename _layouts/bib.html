@@ -12,20 +12,20 @@
 <pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>
 
 {% if entry.doi %}
-<a class="btn btn-small btn-primary" href="http://dx.doi.org/{{entry.doi}}">DOI</a>
+<a class="btn btn-small btn-primary" rel="noopener noreferrer" target="_blank" href="http://dx.doi.org/{{entry.doi}}">DOI</a>
 {% endif %}
 
 {% if entry.oalink %}
-<a class="btn btn-small btn-success" href="{{entry.oalink}}">Download</a>
+<a class="btn btn-small btn-success" rel="noopener noreferrer" target="_blank" href="{{entry.oalink}}">Download</a>
 {% endif %}
 {% if entry.pre_arxiv %}
-<a class="btn btn-small btn-success" href="{{entry.pre_arxiv}}">Preprint</a>
+<a class="btn btn-small btn-success" rel="noopener noreferrer" target="_blank" href="{{entry.pre_arxiv}}">Preprint</a>
 {% endif %}
 {% if entry.pre_earxiv %} 
-<a class="btn btn-small btn-success" href="{{entry.pre_earxiv}}">Preprint</a>
+<a class="btn btn-small btn-success" rel="noopener noreferrer" target="_blank" href="{{entry.pre_earxiv}}">Preprint</a>
 {% endif %}
 {% if entry.post_earxiv %}
-<a class="btn btn-small btn-success" href="{{entry.post_earxiv}}">Postprint</a>
+<a class="btn btn-small btn-success" rel="noopener noreferrer" target="_blank" href="{{entry.post_earxiv}}">Postprint</a>
 {% endif %}
 <p></p>
 

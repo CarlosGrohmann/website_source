@@ -1354,24 +1354,6 @@ field of geological terrain analysis are presented, while emphasis is given to t
   timestamp = {2020-08-04},
 }
 
-@Article{Soares2020,
-  author    = {Soares*, L. P. and Dias*, H. C. and Grohmann, C. H},
-  title     = {{Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes}},
-  journal   = {Computers \& Geosciences (em revisão)},
-  year      = {2021},
-  kind      = {subitted},
-  timestamp = {2020-08-25},
-}
-
-@Article{Dias2020,
-  author    = {Dias*, H. C. and Gramani, M. F. and Grohmann, C. H. and Bateira, C. and Vieira, B. C.},
-  title     = {{Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern Brazilian coast}},
-  journal   = {Landslides (em revisão)},
-  year      = {2021},
-  kind      = {subitted},
-  timestamp = {2020-08-25},
-}
-
 @InProceedings{Grohmann2020gmorph,
   author    = {Grohmann, C. H. and Garcia*, G. P. B. and Affonso*, A. A. and Albuquerque*, R. W.},
   title     = {{Coastal dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stereo}},
@@ -1420,12 +1402,12 @@ Keywords: Microplastics pollution; River sediment; Amazon},
   url       = {https://doi.org/10.1139/juvs-2019-0024},
 }
 
-@Article{Ferreira2020,
+@Article{Ferreira2021,
   author    = {Ferreira$\&dagger;$, A. T. S. and Eduardo Siegle and Maria Carolina Hernandez Ribeiro and Marcelo Soares Teles Santos and Carlos H. Grohmann},
   title     = {{The dynamics of plastic pellets on sandy beaches: a new methodological approach}},
   journal   = {Marine Environmental Research},
-  year      = {2020},
-  volume    = {-},
+  year      = {2021},
+  volume    = {163},
   pages     = {105219},
   issn      = {0141-1136},
   abstract  = {Plastic found in the coastal zone is a result of waste mismanagement. This material comes directly from offshore disposal or by fishing debris, other marine activities, and by marine currents and winds, as well as urban drainage systems and estuaries. Specifically, in the case of plastic pellets, which are spheres with 2-5 mm that constitute the raw material for the manufacture of plastic products, the Santos Port and the plastic factories in Cubatão city (Brazilian southeastern coast), are considered the main local sources for the São Paulo state coast. Consequently, the beaches most affected by this pollutant are those near Santos estuary, like Enseada do Guarujá beach. However, some questions are still open, such as: what are the mechanisms which control the pellets deposition, and which locations are most favorable for deposition on the beach? To answer these questions, a four-step research was carried out at Enseada beach: 1) Plastic pellets geodetic survey based on GNSS positioning; 2) Beach geomorphometric parameters (altitude, aspect, and slope) derived by Digital Elevation Model (DEM); 3) Strandline altitude estimated through wave climate and tide height; and, 4) Plastic pellets deposition Suitability Index (PSI). The joint analysis of the altimetric, geomorphometric and meteoceanographic aspects showed that the beach areas with altitudes higher than those calculated for the strandline (> 2.06 m), slope ∼ 3º and facing the same direction of the higher energy waves (157.5-202.5º) were more susceptible to pellet deposition. This indicates that the accumulation of this pollutant on the beach is controlled not only by its physical characteristics, but mainly by storm surge events. Besides, surveys with geodetic reference (fixed, univocal, and relatively stable on time) bring up altimetric information as a result of all interactions and can be compared with other beaches anywhere on the planet — thus contributing to a standardization of the survey methodology.},
@@ -1434,7 +1416,7 @@ Keywords: Microplastics pollution; River sediment; Amazon},
   keywords  = {Nurdles, GNSS, Strandline altitude, Extreme events, Storm surge, DEM},
   kind      = {journal},
   owner     = {guano},
-  timestamp = {2020-12-30-13-57},
+  timestamp = {2021-01-05-23-00},
   url       = {https://doi.org/10.1016/j.marenvres.2020.105219},
 }
 
@@ -1469,6 +1451,46 @@ Keywords: Microplastics pollution; River sediment; Amazon},
   oalink      = {http://dx.doi.org/10.6084/m9.figshare.3502184},
   owner       = {guano},
   timestamp   = {2009.09.19},
+}
+
+@Article{Villaca2021,
+  author    = {Villaça,* C. V. N. and Crósta, A. P. and Grohmann, C. H.},
+  journal   = {Remote Sensing},
+  title     = {Morphometric Analysis of Pluto’s Impact Craters},
+  year      = {2021},
+  pages     = {377},
+  volume    = {13(3)},
+  access    = {Open Access},
+  doi       = {10.3390/rs13030377},
+  kind      = {journal},
+  timestamp = {2021-01-22},
+}
+
+@Article{GodoyVeiga2021,
+  author    = {Milena Godoy-Veiga and Bruno Barçante Ladvocat Cintra and Nicolás Misailidis Stríkis and Francisco Willian Cruz and Carlos Henrique Grohmann and Matheus Simões Santos and Lior Regev and Elisabetta Boaretto and Gregório Ceccantini and Giuliano Maselli Locosselli},
+  journal   = {Forest Ecology and Management},
+  title     = {{The value of climate responses of individual trees to detect areas of climate-change refugia, a tree-ring study in the Brazilian seasonally dry tropical forests}},
+  year      = {2021},
+  issn      = {0378-1127},
+  pages     = {118971},
+  volume    = {488},
+  access    = {Paywalled},
+  doi       = {10.1016/j.foreco.2021.118971},
+  keywords  = {Climate change, Dendrochronology, Karst, Microenvironment, Radiocarbon (C), Tropics},
+  kind      = {journal},
+  owner     = {guano},
+  timestamp = {2021-03-02-14-23},
+}
+
+@Article{Dias2020,
+  author    = {Dias, H. C. and Gramani, M. F. and Grohmann, C. H. and Bateira, C. and Vieira, B. C.},
+  journal   = {Natural Hazards},
+  title     = {{Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern Brazilian coast}},
+  year      = {2021},
+  doi       = {10.1007/s11069-021-04676-y},
+  kind      = {submitted},
+  owner     = {guano},
+  timestamp = {2021-01-05-23-05},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -25,7 +25,9 @@ navbar-links:
     - Students: "pages/students"
     - SPAMLab: "https://spamlab.github.io"
     - OpenStereo: "pages/openstereo_chg"
-  Outreach: "pages/outreach"
+  Outreach: 
+    - Videos: "pages/outreach"
+    - GIS+FOSS: "pages/sigcomsl"
   BJGEO: "pages/bjgeo"
   Blog:
     - Posts: "blog"

@@ -19,9 +19,6 @@ And if you use reference managers (you should), you can get a file with all my p
 <!-- <a name="landslides_lucas_meena"></a>
 Meena, S.R., Soares, L.P., Grohmann, C.H., - Landslide Detection with Small Datasets: Evaluation of Machine and Deep Learning Algorithms.   -->
 
-<!-- <a name="peruacu_milena"></a>
-Godoy-Veiga, M., Cintra, B.B.L., Strikis, N.M., Cruz, F.W., Grohmann, C.H., Regev, L., Boaretto, E., Ceccantini, G.C.T., Locosselli, G.M. - Enclaves of climate-change refugia for Amburana cearensis (Fabaceae) do not prevent climate extremes effects on trees growth in a Seasonally Dry Tropical Forest.   -->
-
 <!-- <a name="cuny_biogeography"></a>
 Paz, Carnaval... Grohmann, C.H., 2021 - Environmental correlates of taxonomic and phylogenetic diversity in the Atlantic Forest.
 _Journal of Biogeography_   -->
@@ -30,9 +27,6 @@ _Journal of Biogeography_   -->
 Sawakuchi, A.O., Schultz, E., Pupim, F.N., Ribas, C.C., Bertassoli Jr., D.J., Souza, D.F., Cunha, D.F., Mazoca, C.E., Ferreira, M.P., Grohmann, C.H., Wanhfried, I.D., Chiessi, C.M., Cruz, F.W., Almeida, R.P. - Congruent expansion of Amazonian riverine environments and populations of birds specialized on seasonally flooded habitats -->
 
 <!-- 
-<a name="crateras_caio"></a>
-Villaça, C.V.N., Crósta, A.P., Grohmann, C.H., - Morphometric analysis of Pluto’s impact craters.  
-_Submitted for revision_  
 
 <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
@@ -46,9 +40,6 @@ _Submitted for revision_
 Dias\*, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
 _Submitted for revision_  
 
-<a name="landslides_helen_msc"></a>
-Dias\*, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C. - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
-_Submitted for revision_  
 
 <a name="lucas_unet"></a>
 Soares\*, L.P., Dias\*, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes  
@@ -63,7 +54,7 @@ Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess
 \* Denotes student co-author.  
 &dagger; Denotes post-doc co-author.  
 
-{% bibliography --query @article[year<=2020 && kind=journal] %}
+{% bibliography --query @article[year<=2021 && kind=journal] %}
 
 &nbsp;  
 &nbsp; 
