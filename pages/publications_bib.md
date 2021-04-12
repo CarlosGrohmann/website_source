@@ -19,13 +19,8 @@ And if you use reference managers (you should), you can get a file with all my p
 <!-- <a name="landslides_lucas_meena"></a>
 Meena, S.R., Soares, L.P., Grohmann, C.H., - Landslide Detection with Small Datasets: Evaluation of Machine and Deep Learning Algorithms.   -->
 
-<!-- <a name="cuny_biogeography"></a>
-Paz, Carnaval... Grohmann, C.H., 2021 - Environmental correlates of taxonomic and phylogenetic diversity in the Atlantic Forest.
-_Journal of Biogeography_   -->
-
 <!-- <a name="fruta_floodplains"></a>
 Sawakuchi, A.O., Schultz, E., Pupim, F.N., Ribas, C.C., Bertassoli Jr., D.J., Souza, D.F., Cunha, D.F., Mazoca, C.E., Ferreira, M.P., Grohmann, C.H., Wanhfried, I.D., Chiessi, C.M., Cruz, F.W., Almeida, R.P. - Congruent expansion of Amazonian riverine environments and populations of birds specialized on seasonally flooded habitats -->
-
 <!-- 
 
 <a name="praias_natal_pca5017"></a>
@@ -39,7 +34,6 @@ _Submitted for revision_
 <a name="landslides_helen_pca5017"></a>
 Dias\*, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
 _Submitted for revision_  
-
 
 <a name="lucas_unet"></a>
 Soares\*, L.P., Dias\*, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes  

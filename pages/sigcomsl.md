@@ -7,6 +7,8 @@ published: true
 
 Aqui você encontra o material de apoio às aulas de uma disciplina de Pós-Graduação sobre "Introdução ao SIG com Software Livre", ministrada no Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do Instituto de Energia e Ambiente da USP e no Programa de Pós-Graduação em Recursos Minerais e Hidrogeologia (RMH) do Instituto de Geociências da USP.
 
+Todo o material disponível nesta página também pode ser acessado pelo sistema de [e-disciplinas da USP](https://edisciplinas.usp.br/course/view.php?id=85711) (o acesso é aberto a todos, não é necessário fazer login).
+
 Os vídeos estão todos nesta [playlist do YouTube](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G) 
 
 &nbsp;&nbsp;
@@ -32,6 +34,7 @@ Para baixar, clique com o botão direito e escolha "Salvar arquivo como...", (mu
 - (TXT) [xyz_tiles_qgis3.txt](../../downloads/sigcomsl_dados/xyz_tiles_qgis3.txt)
 - (CSV) [CSV_pontos_petar.csv](../../downloads/sigcomsl_dados/CSV_pontos_petar.csv)
 - (CSV) [CSV_interpola_davis.txt](../../downloads/sigcomsl_dados/CSV_interpola_davis.txt)
+- (GPX) [GPS_petar_2016_08_21.gpx](../../downloads/sigcomsl_dados/GPS_petar_2016_08_21.gpx)
 - (ZIP) [mapas_topograficos.zip](../../downloads/sigcomsl_dados/mapas_topograficos.zip) 
 - (ZIP) [SHP_analise_vetor.zip](../../downloads/sigcomsl_dados/SHP_analise_vetor.zip) 
 - (ZIP) [SHP_brasil_cartografia.zip](../../downloads/sigcomsl_dados/SHP_brasil_cartografia.zip)
@@ -45,11 +48,11 @@ Para baixar, clique com o botão direito e escolha "Salvar arquivo como...", (mu
 &nbsp;&nbsp;
 ## Videos
 
-Aula 1 - Introdução ao SIG e a Software Livre
+<!-- Aula 1 - Introdução ao SIG e a Software Livre
 <iframe width="700" height="395" src="https://www.youtube.com/embed/V61_LQZpz60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Aula 2 - Princípios de Cartografia 
 <iframe width="700" height="395" src="https://www.youtube.com/embed/2a9O724Me6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+<br> -->
 
