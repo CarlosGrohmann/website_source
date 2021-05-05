@@ -19,11 +19,10 @@ Os vídeos estão todos nesta [playlist do YouTube](https://www.youtube.com/play
 - Aula 3 - [Tipo de dados, entrada de dados](../../downloads/sigcomsl_dados/aula_03_tipos_dados_2021.pdf)
 - Aula 4 - [Dados Vetoriais](../../downloads/sigcomsl_dados/aula_04_vetor_2021.pdf)
 - Aula 5 - [Dados Raster](../../downloads/sigcomsl_dados/aula_05_raster_2021.pdf)
-- Aula 6 - [Análise de dados raster](../../downloads/sigcomsl_dados/aula_06_analise_raster_2021.pdf)
-- Aula 7 - [Interpolação](../../downloads/sigcomsl_dados/aula_07_interpolacao_2021.pdf)
-- Aula 8 - [Modelos Digitais de Elevação](../../downloads/sigcomsl_dados/aula_08_mdt_2021.pdf)
-- Aula 9 - [Sensoriamento Remoto](../../downloads/sigcomsl_dados/aula_09_sensoriamento_2021.pdf)
-- Aula 10 - [GRASS-GIS](../../downloads/sigcomsl_dados/aula_10_grass_2021.pdf)
+- Aula 6 - [Interpolação](../../downloads/sigcomsl_dados/aula_07_interpolacao_2021.pdf)
+- Aula 7 - [Modelos Digitais de Elevação](../../downloads/sigcomsl_dados/aula_08_mdt_2021.pdf)
+- Aula 8 - [Sensoriamento Remoto](../../downloads/sigcomsl_dados/aula_09_sensoriamento_2021.pdf)
+- Aula 9 - [GRASS-GIS](../../downloads/sigcomsl_dados/aula_10_grass_2021.pdf)
 
 
 &nbsp;&nbsp;
@@ -40,6 +39,7 @@ Para baixar, clique com o botão direito e escolha "Salvar arquivo como...", (mu
 - (ZIP) [SHP_brasil_cartografia.zip](../../downloads/sigcomsl_dados/SHP_brasil_cartografia.zip)
 - (ZIP) [SHP_drena_ribeira.zip](../../downloads/sigcomsl_dados/SHP_drena_ribeira.zip) 
 - (ZIP) [DEM_SRTM_S25W049.hgt.zip](../../downloads/sigcomsl_dados/DEM_SRTM_S25W049.hgt.zip) 
+- (ZIP) [DEM_Copernicus_DEM.zip](../../downloads/sigcomsl_dados/DEM_Copernicus_DEM.zip) 
 - (ZIP) GRASS - [filtros_mfilter.zip](../../downloads/sigcomsl_dados/filtros_mfilter.zip) 
 - (ZIP) Imagem Landsat - [1976_11_09_MSS.zip](../../downloads/sigcomsl_dados/1976_11_09_MSS.zip) 
 - (ZIP) Imagem Landsat - [1999_09_26_ETM.zip](../../downloads/sigcomsl_dados/1999_09_26_ETM.zip)
