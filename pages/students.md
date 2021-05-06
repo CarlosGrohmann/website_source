@@ -58,6 +58,11 @@ period: 2019-? | program: RMH
 <a href="http://orcid.org/0000-0002-4294-5876">ORCiD</a> | <a href="http://lattes.cnpq.br/1122324819287451">Lattes CV</a>  
 Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process  
 period: 2018-? | program: PROCAM | scholarship: CAPES PROEX  
+
+**Rebeca Durço Coelho**  
+<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>  
+Study of Morphometry and Geotechnical Properties in Landslides Deflagration  
+period: 2021-? | program: RMH
 &nbsp;  
 &nbsp;  
 

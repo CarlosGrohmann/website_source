@@ -1410,13 +1410,12 @@ Keywords: Microplastics pollution; River sediment; Amazon},
   volume    = {163},
   pages     = {105219},
   issn      = {0141-1136},
-  abstract  = {Plastic found in the coastal zone is a result of waste mismanagement. This material comes directly from offshore disposal or by fishing debris, other marine activities, and by marine currents and winds, as well as urban drainage systems and estuaries. Specifically, in the case of plastic pellets, which are spheres with 2-5 mm that constitute the raw material for the manufacture of plastic products, the Santos Port and the plastic factories in Cubatão city (Brazilian southeastern coast), are considered the main local sources for the São Paulo state coast. Consequently, the beaches most affected by this pollutant are those near Santos estuary, like Enseada do Guarujá beach. However, some questions are still open, such as: what are the mechanisms which control the pellets deposition, and which locations are most favorable for deposition on the beach? To answer these questions, a four-step research was carried out at Enseada beach: 1) Plastic pellets geodetic survey based on GNSS positioning; 2) Beach geomorphometric parameters (altitude, aspect, and slope) derived by Digital Elevation Model (DEM); 3) Strandline altitude estimated through wave climate and tide height; and, 4) Plastic pellets deposition Suitability Index (PSI). The joint analysis of the altimetric, geomorphometric and meteoceanographic aspects showed that the beach areas with altitudes higher than those calculated for the strandline (> 2.06 m), slope ∼ 3º and facing the same direction of the higher energy waves (157.5-202.5º) were more susceptible to pellet deposition. This indicates that the accumulation of this pollutant on the beach is controlled not only by its physical characteristics, but mainly by storm surge events. Besides, surveys with geodetic reference (fixed, univocal, and relatively stable on time) bring up altimetric information as a result of all interactions and can be compared with other beaches anywhere on the planet — thus contributing to a standardization of the survey methodology.},
   access    = {Paywalled},
   doi       = {10.1016/j.marenvres.2020.105219},
   keywords  = {Nurdles, GNSS, Strandline altitude, Extreme events, Storm surge, DEM},
   kind      = {journal},
   owner     = {guano},
-  timestamp = {2021-01-05-23-00},
+  timestamp = {2021-05-06-11-26},
   url       = {https://doi.org/10.1016/j.marenvres.2020.105219},
 }
 
@@ -1482,7 +1481,7 @@ Keywords: Microplastics pollution; River sediment; Amazon},
   timestamp = {2021-03-02-14-23},
 }
 
-@Article{Dias2020,
+@Article{Dias2021,
   author    = {Dias, H. C. and Gramani, M. F. and Grohmann, C. H. and Bateira, C. and Vieira, B. C.},
   journal   = {Natural Hazards},
   title     = {{Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern Brazilian coast}},
@@ -1491,6 +1490,32 @@ Keywords: Microplastics pollution; River sediment; Amazon},
   kind      = {submitted},
   owner     = {guano},
   timestamp = {2021-01-05-23-05},
+}
+
+@Article{Paz2021,
+  author   = {Paz, Andrea and Brown, Jason L. and Cordeiro, Carlos L. O. and Aguirre-Santoro, Julian and Assis, Claydson and Amaro, Renata Cecilia and Raposo do Amaral, Fabio and Bochorny, Thuane and Bacci, Lucas F. and Caddah, Mayara K. and d’Horta, Fernando and Kaehler, Miriam and Lyra, Mariana and Grohmann, Carlos Henrique and Reginato, Marcelo and Silva-Brandão, Karina Lucas and Freitas, André Victor Lucci and Goldenberg, Renato and Lohmann, Lúcia G. and Michelangeli, Fabián A. and Miyaki, Cristina and Rodrigues, Miguel T. and Silva, Thiago S. and Carnaval, Ana C.},
+  journal  = {Journal of Biogeography},
+  title    = {{Environmental correlates of taxonomic and phylogenetic diversity in the Atlantic Forest}},
+  year     = {2021},
+  access   = {Open Access},
+  doi      = {10.1111/jbi.14083},
+  keywords = {biodiversity correlates, climate stability, phylogenetic diversity, phylogenetic endemism, precipitation, species richness},
+  kind     = {journal},
+}
+
+@Article{Dias2021a,
+  author    = {Dias, Helen Cristina and Gramani, Marcelo Fischer and Grohmann, Carlos Henrique and Bateira, Carlos and Vieira, Bianca Carvalho},
+  title     = {{Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern Brazilian coast}},
+  journal   = {Natural Hazards},
+  year      = {2021},
+  month     = mar,
+  issn      = {1573-0840},
+  access    = {Paywalled},
+  kind      = {journal},
+  owner     = {guano},
+  refid     = {Dias2021},
+  timestamp = {2021-05-06-11-25},
+  url       = {https://doi.org/10.1007/s11069-021-04676-y},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
