@@ -28,7 +28,8 @@ Os vídeos estão todos nesta [playlist do YouTube](https://www.youtube.com/play
 &nbsp;&nbsp;
 ## Material de apoio para exercícios
 
-Para baixar, clique com o botão direito e escolha "Salvar arquivo como...", (muitas vezes os navegadores tentam abrir os arquivos TXT e CSV)
+Para baixar, clique com o botão direito e escolha "Salvar arquivo como..."<br>  
+(muitas vezes os navegadores tentam abrir os arquivos TXT e CSV)
 
 - (TXT) [xyz_tiles_qgis3.txt](../../downloads/sigcomsl_dados/xyz_tiles_qgis3.txt)
 - (CSV) [CSV_pontos_petar.csv](../../downloads/sigcomsl_dados/CSV_pontos_petar.csv)
@@ -48,11 +49,62 @@ Para baixar, clique com o botão direito e escolha "Salvar arquivo como...", (mu
 &nbsp;&nbsp;
 ## Videos
 
-<!-- Aula 1 - Introdução ao SIG e a Software Livre
+Aula 1 - Introdução ao SIG e a Software Livre
 <iframe width="700" height="395" src="https://www.youtube.com/embed/V61_LQZpz60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Aula 2 - Princípios de Cartografia 
-<iframe width="700" height="395" src="https://www.youtube.com/embed/2a9O724Me6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br> -->
+<iframe width="700" height="395" src="https://www.youtube.com/embed/TNTPO1vTEoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
+Aula 3 - Dados e Metadados 
+<iframe width="700" height="395" src="https://www.youtube.com/embed/J0YBk-oD6jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 3.1 - Prática de Georreferenciamento
+<iframe width="700" height="395" src="https://www.youtube.com/embed/siL_RJg3pPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 4 - Dados Vetoriais
+<iframe width="700" height="395" src="https://www.youtube.com/embed/G4gepdqPOWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 4.1 - Edição de Dados Vetoriais 
+<iframe width="700" height="395" src="https://www.youtube.com/embed/gkXE5AQzwrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 4.2 - Vetores - Arquivos CSV e GPX, mais dois plugins muito úteis
+<iframe width="700" height="395" src="https://www.youtube.com/embed/lnx5W7ULUwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 4.3 - Exercício com vetores - municípios do Brasil
+<iframe width="700" height="395" src="https://www.youtube.com/embed/DHXn_qG8qm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 4.4 - Vetores - Seleção por localização, atributos e buffers vetoriais com MMQGIS
+<iframe width="700" height="395" src="https://www.youtube.com/embed/l8iuvJchGpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 4.5 - Vetores - Densidade de população com união de tabelas
+<iframe width="700" height="395" src="https://www.youtube.com/embed/JMER9LTJpU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 5 - Dados tipo Raster
+<iframe width="700" height="395" src="https://www.youtube.com/embed/Xyv1XIuZkdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 6 - Interpolação
+<iframe width="700" height="395" src="https://www.youtube.com/embed/tB-VrcrLM8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 6.1 - Exercício de interpolação
+<iframe width="700" height="395" src="https://www.youtube.com/embed/ASzSV_ND01A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Aula 7 - Modelos Digitais de Elevação
+<iframe width="700" height="395" src="https://www.youtube.com/embed/KDlsy7_9CBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<!-- Aula 7.1 - Exercício de Análise Digital de Terreno (Geomorfometria)
+<iframe width="700" height="395" src="https://www.youtube.com/embed/tBVrcrLM8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br> -->
