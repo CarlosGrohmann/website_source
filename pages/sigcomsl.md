@@ -12,17 +12,73 @@ Todo o material disponível nesta página também pode ser acessado pelo sistema
 Os vídeos estão todos nesta [playlist do YouTube](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G) 
 
 &nbsp;&nbsp;
-## Slides das aulas
+## Aulas
 
-- Aula 1 - [Introdução ao SIG e a Software Livre](../../downloads/sigcomsl_dados/aula_01_intro_sig_2021.pdf)
-- Aula 2 - [Princípios de Cartografia](../../downloads/sigcomsl_dados/aula_02_cartografia_2021.pdf)
-- Aula 3 - [Tipo de dados, entrada de dados](../../downloads/sigcomsl_dados/aula_03_tipos_dados_2021.pdf)
-- Aula 4 - [Dados Vetoriais](../../downloads/sigcomsl_dados/aula_04_vetor_2021.pdf)
-- Aula 5 - [Dados Raster](../../downloads/sigcomsl_dados/aula_05_raster_2021.pdf)
-- Aula 6 - [Interpolação](../../downloads/sigcomsl_dados/aula_07_interpolacao_2021.pdf)
-- Aula 7 - [Modelos Digitais de Elevação](../../downloads/sigcomsl_dados/aula_08_mdt_2021.pdf)
-- Aula 8 - [Sensoriamento Remoto](../../downloads/sigcomsl_dados/aula_09_sensoriamento_2021.pdf)
-- Aula 9 - [GRASS-GIS](../../downloads/sigcomsl_dados/aula_10_grass_2021.pdf)
+- Aula 1  
+Slides - [Introdução ao SIG e a Software Livre](../../downloads/sigcomsl_dados/aula_01_intro_sig_2021.pdf)  
+Vídeo - [Introdução ao SIG e a Software Livre](https://youtu.be/V61_LQZpz60)  
+
+
+- Aula 2  
+Slides - [Princípios de Cartografia](../../downloads/sigcomsl_dados/aula_02_cartografia_2021.pdf)  
+Vídeo - [Princípios de Cartografia](https://youtu.be/TNTPO1vTEoE)  
+
+
+- Aula 3  
+Slides - [Tipo de dados, entrada de dados](../../downloads/sigcomsl_dados/aula_03_tipos_dados_2021.pdf)  
+Vídeo - [Dados e Metadados](https://youtu.be/J0YBk-oD6jo)  
+Vídeo - [Exercício - Georreferenciamento](https://youtu.be/siL_RJg3pPY)  
+
+
+- Aula 4  
+Slides - [Dados Vetoriais](../../downloads/sigcomsl_dados/aula_04_vetor_2021.pdf)  
+Vídeo - [Dados Vetoriais](https://youtu.be/G4gepdqPOWo)  
+Vídeo - [Edição de Dados Vetoriais](https://youtu.be/gkXE5AQzwrM)  
+Vídeo - [Vetores - Arquivos CSV e GPX, mais dois plugins muito úteis](https://youtu.be/lnx5W7ULUwk)  
+Vídeo - [Exercício - municípios do Brasil](https://youtu.be/DHXn_qG8qm4)  
+Vídeo - [Exercício - Seleção por localização, atributos e buffers vetoriais com MMQGIS](https://youtu.be/l8iuvJchGpI)  
+Vídeo - [Exercício - Densidade de população com união de tabelas](https://youtu.be/JMER9LTJpU4)  
+
+
+- Aula 5  
+Slides - [Dados Raster](../../downloads/sigcomsl_dados/aula_05_raster_2021.pdf)  
+Vídeo - [Dados tipo Raster](https://youtu.be/Xyv1XIuZkdQ)  
+
+
+- Aula 6  
+Slides - [Interpolação](../../downloads/sigcomsl_dados/aula_06_interpolacao_2021.pdf)  
+Vídeo - [Interpolação](https://youtu.be/tB-VrcrLM8Y)  
+Vídeo - [Exercício - interpolação](https://youtu.be/ASzSV_ND01A)  
+
+
+- Aula 7  
+Slides - [Modelos Digitais de Elevação](../../downloads/sigcomsl_dados/aula_07_mdt_2021.pdf)  
+Vídeo - [Modelos Digitais de Elevação](https://youtu.be/KDlsy7_9CBo)  
+Vídeo - [Exercício - Análise Digital de Terreno (Geomorfometria)](https://youtu.be/tBVrcrLM8Y)  
+
+
+- Aula 8  
+Slides - [Sensoriamento Remoto](../../downloads/sigcomsl_dados/aula_08_sensoriamento_2021.pdf)  
+Vídeo - [Sensoriamento Remoto](https://youtu.be/eq4aLMffP9g)  
+Vídeo - [Imagens multibandas (layer stack) no QGIS](https://youtu.be/Z8345GjEC4k)  
+Vídeo - [Exercício - Sensoriamento Remoto](https://youtu.be/zg-CbRA3qTA)  
+
+
+
+- Aula 9  
+Slides - [GRASS-GIS](../../downloads/sigcomsl_dados/aula_09_grass_2021.pdf)  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 &nbsp;&nbsp;
@@ -47,8 +103,11 @@ Para baixar, clique com o botão direito e escolha "Salvar arquivo como..."<br>
 
 
 &nbsp;&nbsp;
-## Videos
 
+
+
+
+<!-- 
 Aula 1 - Introdução ao SIG e a Software Livre
 <iframe width="700" height="395" src="https://www.youtube.com/embed/V61_LQZpz60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
@@ -103,7 +162,7 @@ Aula 6.1 - Exercício de interpolação
 
 Aula 7 - Modelos Digitais de Elevação
 <iframe width="700" height="395" src="https://www.youtube.com/embed/KDlsy7_9CBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+<br> -->
 
 <!-- Aula 7.1 - Exercício de Análise Digital de Terreno (Geomorfometria)
 <iframe width="700" height="395" src="https://www.youtube.com/embed/tBVrcrLM8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
