@@ -265,8 +265,8 @@ scholar:
   locale: en
   allow_locale_overrides: true
 
-  sort_by: timestamp
-  order: descending
+  sort_by: author,timestamp
+  order: ascending
 
   group_by: year
   group_order: descending
@@ -275,7 +275,7 @@ scholar:
 
   source: _bibliography
   # repository: files
-  bibliography: bib_chg_students
+  bibliography: bib_chg_website
   bibliography_template: bib
 
   replace_strings: true

@@ -9,10 +9,10 @@ Aqui você encontra o material de apoio às aulas de uma disciplina de Pós-Grad
 
 Todo o material disponível nesta página também pode ser acessado pelo sistema de [e-disciplinas da USP](https://edisciplinas.usp.br/course/view.php?id=85711) (o acesso é aberto a todos, não é necessário fazer login).
 
-Os vídeos estão todos nesta [playlist do YouTube](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G) 
+Os vídeos estão todos nestas duas playlists do YouTube: [aulas de QGIS](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G) e [aulas de GRASS-GIS](https://www.youtube.com/playlist?list=PL9GztlLGb7RovKMMO2ohYdfxfILXjxwEy)
 
 &nbsp;&nbsp;
-## Aulas
+## Aulas - QGIS
 
 - Aula 1  
 Slides - [Introdução ao SIG e a Software Livre](../../downloads/sigcomsl_dados/aula_01_intro_sig_2021.pdf)  
@@ -66,43 +66,49 @@ Vídeo - [Exercício - Sensoriamento Remoto](https://youtu.be/zg-CbRA3qTA)
 
 
 - Aula 9  
-Slides - [GRASS-GIS](../../downloads/sigcomsl_dados/aula_09_grass_2021.pdf)  
+Vídeo - [Como fazer mapas no QGIS](https://youtu.be/CmPWnjkdSMo)  
 
 
 
+&nbsp;&nbsp;
+## Aulas - GRASS-GIS
+
+- Slides - [GRASS-GIS](../../downloads/sigcomsl_dados/aulagrass_2021.pdf)  
+- Apostila - [GRASS-GIS (2016)](http://dx.doi.org/10.6084/m9.figshare.3502184)  
+- Texto - [Shapiro & Westervelt, 1992 - r.mapcalc: An Algebra for GIS and Image Processing](https://grass.osgeo.org/gdp/raster/mapcalc-algebra.pdf)  
 
 
+- Vídeo - [01 - Conhecendo o GRASS-GIS (histórico e conceitos básicos)](https://youtu.be/qvkjqPPFjIM)  
+- Vídeo - [02 - Location, maspset e visão geral do sistema](https://youtu.be/R6uqkN9j4bc)  
+- Vídeo - [03 - Dados raster / Trabalhando com a Region](https://youtu.be/4l6BCCXMwLA)  
+- Vídeo - [04 - Visualização 3D](https://youtu.be/JSMYjjsBEGo)  
+- Vídeo - [05 - Álgebra de mapas raster (r.mapcalc)](https://youtu.be/rgutNeD3nkE)  
+- Vídeo - [06 - Dados vetoriais](https://youtu.be/Sk02h1P_PPA)  
+- Vídeo - [07 - Máscaras](https://youtu.be/Sk02h1P_PPA)  
 
-
-
-
-
-
-
-
-
+&nbsp;&nbsp;
 &nbsp;&nbsp;
 ## Material de apoio para exercícios
 
-Para baixar, clique com o botão direito e escolha "Salvar arquivo como..."<br>  
+Para baixar, clique com o botão direito e escolha "Salvar arquivo como..."
 (muitas vezes os navegadores tentam abrir os arquivos TXT e CSV)
 
-- (TXT) [xyz_tiles_qgis3.txt](../../downloads/sigcomsl_dados/xyz_tiles_qgis3.txt)
-- (CSV) [CSV_pontos_petar.csv](../../downloads/sigcomsl_dados/CSV_pontos_petar.csv)
-- (CSV) [CSV_interpola_davis.txt](../../downloads/sigcomsl_dados/CSV_interpola_davis.txt)
-- (GPX) [GPS_petar_2016_08_21.gpx](../../downloads/sigcomsl_dados/GPS_petar_2016_08_21.gpx)
-- (ZIP) [mapas_topograficos.zip](../../downloads/sigcomsl_dados/mapas_topograficos.zip) 
-- (ZIP) [SHP_analise_vetor.zip](../../downloads/sigcomsl_dados/SHP_analise_vetor.zip) 
-- (ZIP) [SHP_brasil_cartografia.zip](../../downloads/sigcomsl_dados/SHP_brasil_cartografia.zip)
-- (ZIP) [SHP_drena_ribeira.zip](../../downloads/sigcomsl_dados/SHP_drena_ribeira.zip) 
-- (ZIP) [DEM_SRTM_S25W049.hgt.zip](../../downloads/sigcomsl_dados/DEM_SRTM_S25W049.hgt.zip) 
-- (ZIP) [DEM_Copernicus_DEM.zip](../../downloads/sigcomsl_dados/DEM_Copernicus_DEM.zip) 
-- (ZIP) GRASS - [filtros_mfilter.zip](../../downloads/sigcomsl_dados/filtros_mfilter.zip) 
-- (ZIP) Imagem Landsat - [1976_11_09_MSS.zip](../../downloads/sigcomsl_dados/1976_11_09_MSS.zip) 
-- (ZIP) Imagem Landsat - [1999_09_26_ETM.zip](../../downloads/sigcomsl_dados/1999_09_26_ETM.zip)
+- (TXT) [xyz_tiles_qgis3.txt](../../downloads/sigcomsl_dados/xyz_tiles_qgis3.txt)  
+- (CSV) [CSV_pontos_petar.csv](../../downloads/sigcomsl_dados/CSV_pontos_petar.csv)  
+- (CSV) [CSV_interpola_davis.txt](../../downloads/sigcomsl_dados/CSV_interpola_davis.txt)  
+- (GPX) [GPS_petar_2016_08_21.gpx](../../downloads/sigcomsl_dados/GPS_petar_2016_08_21.gpx) 
+- (ZIP) [mapas_topograficos.zip](../../downloads/sigcomsl_dados/mapas_topograficos.zip)  
+- (ZIP) [SHP_analise_vetor.zip](../../downloads/sigcomsl_dados/SHP_analise_vetor.zip)  
+- (ZIP) [SHP_brasil_cartografia.zip](../../downloads/sigcomsl_dados/SHP_brasil_cartografia.zip)  
+- (ZIP) [SHP_drena_ribeira.zip](../../downloads/sigcomsl_dados/SHP_drena_ribeira.zip)  
+- (ZIP) [DEM_SRTM_S25W048.hgt.zip](../../downloads/sigcomsl_dados/DEM_SRTM_S25W048.hgt.zip)  
+- (ZIP) [DEM_SRTM_S25W049.hgt.zip](../../downloads/sigcomsl_dados/DEM_SRTM_S25W049.hgt.zip)  
+- (ZIP) [DEM_Copernicus_DEM.zip](../../downloads/sigcomsl_dados/DEM_Copernicus_DEM.zip)  
+- (ZIP) GRASS - [filtros_mfilter.zip](../../downloads/sigcomsl_dados/filtros_mfilter.zip)  
+- (ZIP) Imagem Landsat - [1976_11_09_MSS.zip](../../downloads/sigcomsl_dados/1976_11_09_MSS.zip)  
+- (ZIP) Imagem Landsat - [1999_09_26_ETM.zip](../../downloads/sigcomsl_dados/1999_09_26_ETM.zip)  
+- (ZIP) Imagem Landsat - [2020_07_09_OLI.zip](../../downloads/sigcomsl_dados/2020_07_09_OLI.zip)  
 
-
-&nbsp;&nbsp;
 
 
 

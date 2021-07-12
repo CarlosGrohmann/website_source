@@ -10,37 +10,10 @@ Here you can find a list of the papers I published, as well as some selected con
 
 I intend to keep an open access copy of my papers at [EarthArXiv.org](https://osf.io/preprints/eartharxiv/) and [ArXiv.org](https://arxiv.org/), which means that you can read them even without a subscription to the publisher, but be warned that most of these are [postprints](http://www.sherpa.ac.uk/romeoinfo.html) created from the "accepted manuscript" (that is, they have the exact same content of the final published version, except for the publisher's typesetting). For a final version, please refer to the publisher's website (which may be behind a paywall).  
 
-And if you use reference managers (you should), you can get a file with all my publications: [BibTex](http://en.wikipedia.org/wiki/Bibtex) format: [here](../../downloads/CarlosGrohmann_papers.bib) (good for [JabRef](http://jabref.sourceforge.net/), [Zotero](http://www.zotero.org/) and a bazillion others) [RIS](http://en.wikipedia.org/wiki/RIS_\(file_format\)) format: [here](../../downloads/CarlosGrohmann_papers.ris) (good for [Mendeley](http://www.mendeley.com/) or [EndNote](http://endnote.com/)) (last update: 2020-12) 
+And if you use reference managers (you should), you can get a file with all my publications: [BibTex](http://en.wikipedia.org/wiki/Bibtex) format: [here](../../downloads/CarlosGrohmann_papers.bib) (good for [JabRef](http://jabref.sourceforge.net/), [Zotero](http://www.zotero.org/) and a bazillion others) [RIS](http://en.wikipedia.org/wiki/RIS_\(file_format\)) format: [here](../../downloads/CarlosGrohmann_papers.ris) (good for [Mendeley](http://www.mendeley.com/) or [EndNote](http://endnote.com/)) (last update: 2021-07) 
 
 <!-- &nbsp;   -->
 &nbsp;  
-
-
-<!-- <a name="landslides_lucas_meena"></a>
-Meena, S.R., Soares, L.P., Grohmann, C.H., - Landslide Detection with Small Datasets: Evaluation of Machine and Deep Learning Algorithms.   -->
-
-<!-- <a name="fruta_floodplains"></a>
-Sawakuchi, A.O., Schultz, E., Pupim, F.N., Ribas, C.C., Bertassoli Jr., D.J., Souza, D.F., Cunha, D.F., Mazoca, C.E., Ferreira, M.P., Grohmann, C.H., Wanhfried, I.D., Chiessi, C.M., Cruz, F.W., Almeida, R.P. - Congruent expansion of Amazonian riverine environments and populations of birds specialized on seasonally flooded habitats -->
-<!-- 
-
-<a name="praias_natal_pca5017"></a>
-Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
-_Submitted for revision_  
-
-<a name="alynne_pca5017"></a>
-Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
-_Submitted for revision_  
-
-<a name="landslides_helen_pca5017"></a>
-Dias\*, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
-_Submitted for revision_  
-
-<a name="lucas_unet"></a>
-Soares\*, L.P., Dias\*, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes  
-_Submitted for revision_  
-Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  
- -->
-
 
 
 <a name="papers"></a>
