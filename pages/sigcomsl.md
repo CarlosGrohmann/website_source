@@ -9,7 +9,9 @@ Aqui você encontra o material de apoio às aulas de uma disciplina de Pós-Grad
 
 Todo o material disponível nesta página também pode ser acessado pelo sistema de [e-disciplinas da USP](https://edisciplinas.usp.br/course/view.php?id=85711) (o acesso é aberto a todos, não é necessário fazer login).
 
-Os vídeos estão todos nestas duas playlists do YouTube: [aulas de QGIS](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G) e [aulas de GRASS-GIS](https://www.youtube.com/playlist?list=PL9GztlLGb7RovKMMO2ohYdfxfILXjxwEy)
+<!-- Os vídeos estão todos nestas duas playlists do YouTube: [aulas de QGIS](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G) e [aulas de GRASS-GIS](https://www.youtube.com/playlist?list=PL9GztlLGb7RovKMMO2ohYdfxfILXjxwEy) -->
+
+Os vídeos estão todos nesta playlist do YouTube: [aulas de QGIS](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G).
 
 &nbsp;&nbsp;
 ## Aulas - QGIS
@@ -69,14 +71,14 @@ Vídeo - [Exercício - Sensoriamento Remoto](https://youtu.be/zg-CbRA3qTA)
 Vídeo - [Como fazer mapas no QGIS](https://youtu.be/CmPWnjkdSMo)  
 
 
-
+<!-- 
 &nbsp;&nbsp;
 ## Aulas - GRASS-GIS
 
 - Slides - [GRASS-GIS](../../downloads/sigcomsl_dados/aulagrass_2021.pdf)  
 - Apostila - [GRASS-GIS (2016)](http://dx.doi.org/10.6084/m9.figshare.3502184)  
 - Texto - [Shapiro & Westervelt, 1992 - r.mapcalc: An Algebra for GIS and Image Processing](https://grass.osgeo.org/gdp/raster/mapcalc-algebra.pdf)  
-
+&nbsp;
 
 - Vídeo - [01 - Conhecendo o GRASS-GIS (histórico e conceitos básicos)](https://youtu.be/qvkjqPPFjIM)  
 - Vídeo - [02 - Location, maspset e visão geral do sistema](https://youtu.be/R6uqkN9j4bc)  
@@ -86,7 +88,7 @@ Vídeo - [Como fazer mapas no QGIS](https://youtu.be/CmPWnjkdSMo)
 - Vídeo - [06 - Dados vetoriais](https://youtu.be/Sk02h1P_PPA)  
 - Vídeo - [07 - Máscaras](https://youtu.be/Sk02h1P_PPA)  
 
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 &nbsp;&nbsp;
 ## Material de apoio para exercícios
 

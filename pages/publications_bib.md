@@ -18,8 +18,8 @@ And if you use reference managers (you should), you can get a file with all my p
 
 <a name="papers"></a>
 ## Journal Articles
-\* Denotes student co-author.  
-&dagger; Denotes post-doc co-author.  
+\* Denotes student co-author.
+&dagger; Denotes post-doc co-author.
 
 {% bibliography --query @article[year<=2021 && kind=journal] %}
 
