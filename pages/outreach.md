@@ -21,6 +21,7 @@ Pretty much all the videos are in Portuguese.
 - [05 - Submissão de artigo no SciELO / ScholarOne](https://youtu.be//9sm-BeWanUo)  
 - [06 - Análise de plágio de artigos científicos](https://youtu.be/ZpEX6JTQU1o)  
 - [07 - O quê é ORCiD? Precisa mesmo ter um? (SIM!)](https://youtu.be/vnAeelLZ--0)  
+- [08 - Periódicos Predatórios](https://youtu.be/DS0HydVh8Bg)  
 &nbsp;
 
 ### DEMIX project
